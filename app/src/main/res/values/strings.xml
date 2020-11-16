@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ProyectoIntegrador</string>
+    <string name="title_inicio">Inicio</string>
+    <string name="favorito">Favorito</string>
+    <string name="buscar">buscar</string>
+    <string name="opcion_1">Opcion 1</string>
+    <string name="opcion_2">Opcion 2</string>
+    <string name="opcion_3">Opcion 3</string>
+</resources>
