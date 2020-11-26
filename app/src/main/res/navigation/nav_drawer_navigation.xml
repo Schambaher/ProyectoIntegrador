@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_drawer_navegation"
+    app:startDestination="@id/nav_citas">
+
+    <fragment
+        android:id="@+id/nav_citas"
+        android:name="pe.edu.tecsup.proyectointegrador.fragment.CitasFragment"
+        android:label="@string/citas"
+        tools:layout="@layout/fragment_citas"/>
+
+    <fragment
+        android:id="@+id/nav_clientes"
+        android:name="pe.edu.tecsup.proyectointegrador.fragment.ClientesFragment"
+        android:label="@string/clientes"
+        tools:layout="@layout/fragment_clientes"/>
+
+    <fragment
+        android:id="@+id/nav_domicilios"
+        android:name="pe.edu.tecsup.proyectointegrador.fragment.DomiciliosFragment"
+        android:label="@string/domicilios"
+        tools:layout="@layout/fragment_domicilios"/>
+
+    <fragment
+        android:id="@+id/nav_horarios"
+        android:name="pe.edu.tecsup.proyectointegrador.fragment.HorariosFragment"
+        android:label="@string/horarios"
+        tools:layout="@layout/fragment_horarios"/>
+
+</navigation>

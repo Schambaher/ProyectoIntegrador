@@ -6,4 +6,17 @@
     <string name="opcion_1">Opcion 1</string>
     <string name="opcion_2">Opcion 2</string>
     <string name="opcion_3">Opcion 3</string>
+
+
+    <string name="citas">Citas</string>
+    <string name="domicilios">domicilios</string>
+    <string name="horarios">horarios</string>
+    <string name="clientes">Clientes</string>
+
+
+    <string name="nombre">Eduardo Guillermo Hurtado</string>
+    <string name="correo">eduardo.hurtado@empresa.com</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
 </resources>
